@@ -15,7 +15,7 @@
         <tr>
             <td>01</td>
             <td><a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/Dynamic%20Clock">Dynamic Clock</a></td>
-            <td><a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Dynamic%20Clock/index.html">View</a></td>
+            <td><a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Dynamic Clock/index.html">View</a></td>
         </tr>
     </table>
     
