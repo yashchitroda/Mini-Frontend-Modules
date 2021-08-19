@@ -29,6 +29,11 @@
             <td><a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/split-hover-page">Split-Hover-Page</a></td>
             <td><a href="https://yashchitroda.github.io/Mini-Frontend-Modules/split-hover-page/index.html">View</a></td>
         </tr>
+      <br>
+         <td>04</td>
+            <td><a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/split-hover-page">pending</a></td>
+            <td><a href="https://yashchitroda.github.io/Mini-Frontend-Modules/split-hover-page/index.html">View</a></td>
+        </tr>
     </table>
     
 </body>
