@@ -34,6 +34,11 @@
             <td><a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/Toast Message">Toast Message</a></td>
             <td><a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Toast Message/index.html">View</a></td>
         </tr>
+    <br>
+         <td>05</td>
+            <td><a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/Generate Password">Generate Password</a></td>
+            <td><a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Generate Password/index.html">View</a></td>
+        </tr>
     </table>
     
 </body>
