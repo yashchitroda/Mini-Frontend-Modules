@@ -39,6 +39,11 @@
             <td><a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/Generate Password">Generate Password</a></td>
             <td><a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Generate Password/index.html">View</a></td>
         </tr>
+   <br>
+         <td>06</td>
+            <td><a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/Scrolling Animation">Scrolling Animation</a></td>
+            <td><a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Scrolling Animation/index.html">View</a></td>
+        </tr>
     </table>
     
 </body>
