@@ -44,6 +44,11 @@
             <td><a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/Scrolling Animation">Scrolling Animation</a></td>
             <td><a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Scrolling Animation/index.html">View</a></td>
         </tr>
+        <br>
+         <td>07</td>
+            <td><a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/Image Expansion">Image Expansion</a></td>
+            <td><a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Image Expansion/index.html">View</a></td>
+        </tr>
     </table>
     
 </body>
