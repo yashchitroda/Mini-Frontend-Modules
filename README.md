@@ -10,4 +10,6 @@
 |   5  | <a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/Generate Password">Generate Password</a> |    <a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Generate Password/index.html">View</a> |
 |   6  | <a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/Scrolling Animation">Scrolling Animation</a> |    <a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Scrolling Animation/index.html">View</a> |
 |   7  | <a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/Image Expansion">Image Expansion</a> |    <a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Image Expansion/index.html">View</a> |
+|   8  | <a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/Feedback UI">Feedback UI</a> |    <a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Feedback UI/index.html">View</a> |
+
 
