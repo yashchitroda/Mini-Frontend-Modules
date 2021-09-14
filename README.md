@@ -12,4 +12,4 @@
 |   7  | <a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/Image Expansion">Image Expansion</a> |    <a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Image Expansion/index.html">View</a> |
 |   8  | <a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/Feedback UI">Feedback UI</a> |    <a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Feedback UI/index.html">View</a> |
 |   9  | <a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/Drink Water Tracker UI">Drink Water Tracker UI</a> |    <a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Drink Water Tracker UI/index.html">View</a> |
-
+|   10  | <a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/Insect Tap">Insect Tap</a> |    <a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Insect Tap/index.html">View</a> |
