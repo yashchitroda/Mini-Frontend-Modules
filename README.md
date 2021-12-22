@@ -1,5 +1,5 @@
 # Mini-Frontend-Modules
-<h2>Summary</h2>
+<h2>Summary.</h2>
 
 |        Sr.no  |         PROJECT TITLE | WORKING DEMO |
 | :-------------: | :-------------: | :-------------: |
