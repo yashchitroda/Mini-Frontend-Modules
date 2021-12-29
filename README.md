@@ -1,5 +1,7 @@
 # Mini-Frontend-Modules
 <h2>Summary</h2>
+<img src="http://ForTheBadge.com/images/badges/uses-css.svg">
+
 
 |        Sr.no  |         PROJECT TITLE | WORKING DEMO |
 | :-------------: | :-------------: | :-------------: |
