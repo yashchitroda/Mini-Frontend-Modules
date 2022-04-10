@@ -3,7 +3,7 @@
 <img src="http://ForTheBadge.com/images/badges/uses-css.svg">
 
 
-|        Sr.no  |         PROJECT TITLE | WORKING DEMO |
+|        Sr.No  |         PROJECT TITLE | WORKING DEMO |
 | :-------------: | :-------------: | :-------------: |
 |   1  | <a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/Dynamic%20Clock">Dynamic Clock</a> |     <a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Dynamic Clock/index.html">View</a> |
 |   2  | <a href="https://github.com/yashchitroda/Mini-Frontend-Modules/tree/main/Tile-Hover-Effect">Tile-Hover-Effect</a> |     <a href="https://yashchitroda.github.io/Mini-Frontend-Modules/Tile-Hover-Effect/index.html">View</a> |
