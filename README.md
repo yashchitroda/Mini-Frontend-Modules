@@ -1,4 +1,4 @@
-# Mini-Frontend-Modules
+# Mini-Frontend-Module's
 
 <img src="http://ForTheBadge.com/images/badges/uses-css.svg">
 
